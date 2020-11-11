@@ -4,3 +4,5 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://localhost:8761/eureka
+postOffice:
+  url: https://api.novaposhta.ua/v2.0/json/
